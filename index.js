@@ -9,7 +9,7 @@ app.get("/", (req, resp) => {
 	});
 });
 
-app.get("/house", (req, resp) => {
+app.get("/history", (req, resp) => {
 	Category.find({}).then((categories) => {
 		resp.json(categories);
 	});
