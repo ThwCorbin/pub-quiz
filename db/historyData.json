@@ -1,0 +1,458 @@
+[
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? ",
+		"correct_answer": "Polio",
+		"incorrect_answers": ["Cancer", "Meningitis", "HIV"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?",
+		"correct_answer": "Romantic",
+		"incorrect_answers": ["Classic", "Baroque", "Renaissance"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "In the year 1900, what were the most popular first names given to boy and girl babies born in the United States?",
+		"correct_answer": "John and Mary",
+		"incorrect_answers": [
+			"Joseph and Catherine",
+			"William and Elizabeth",
+			"George and Anne"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Who was the first explorer to sail to North America?",
+		"correct_answer": "Leif Erikson",
+		"incorrect_answers": [
+			"Christopher Columbus",
+			"Amerigo Vespucci",
+			"Ferdinand Magellan"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which of his six wives was Henry VIII married to the longest?",
+		"correct_answer": "Catherine of Aragon",
+		"incorrect_answers": ["Anne Boleyn", "Jane Seymour", "Catherine Parr"]
+	},
+	{
+		"category": "History",
+		"type": "boolean",
+		"difficulty": "hard",
+		"question": "Joseph Stalin&#039;s real name was Ioseb Bessarionis dze Dzugashvili.",
+		"correct_answer": "True",
+		"incorrect_answers": ["False"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "The Battle of the Somme in World War I took place in which country?",
+		"correct_answer": "France",
+		"incorrect_answers": ["Germany", "Italy", "Austria"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "What age was King Henry V when he died?",
+		"correct_answer": "35",
+		"incorrect_answers": ["62", "87", "73"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "On which day did ARPANET suffer a 4 hour long network crash?",
+		"correct_answer": "October 27, 1980",
+		"incorrect_answers": [
+			"November 21, 1969",
+			"October 29, 1969",
+			"December 9, 1991"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+		"correct_answer": "55",
+		"incorrect_answers": ["50", "60", "54"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which Apollo mission was the last one in NASA&#039;s Apollo program?",
+		"correct_answer": "Apollo 17",
+		"incorrect_answers": ["Apollo 13", "Apollo 11", "Apollo 15"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+		"correct_answer": "USS Pueblo",
+		"incorrect_answers": [
+			"USS North Carolina",
+			"USS Constitution",
+			"USS Indianapolis"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "When was the SS or Schutzstaffel established?",
+		"correct_answer": "April 4th, 1925",
+		"incorrect_answers": [
+			"September 1st, 1941",
+			"March 8th, 1935",
+			"February 21st, 1926"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?",
+		"correct_answer": "Richard Neville",
+		"incorrect_answers": ["Richard III", "Henry V", "Thomas Warwick"]
+	},
+	{
+		"category": "History",
+		"type": "boolean",
+		"difficulty": "medium",
+		"question": "If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",
+		"correct_answer": "True",
+		"incorrect_answers": ["False"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Where and when was the first cardboard box made for industrial use?",
+		"correct_answer": "England, 1817",
+		"incorrect_answers": [
+			"United States, 1817",
+			"England, 1917",
+			"United States, 1917"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "The Second Boer War in 1899 was fought where?",
+		"correct_answer": "South Africa",
+		"incorrect_answers": ["Argentina", "Nepal", "Bulgaria"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Who tutored Alexander the Great?",
+		"correct_answer": "Aristotle",
+		"incorrect_answers": ["Socrates", "Plato", "King Philip"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Joseph Stalin had a criminal past doing what?",
+		"correct_answer": "Robbing trains",
+		"incorrect_answers": ["Pedophilia", "Tax evation", "Identity Fraud"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "When was Google founded?",
+		"correct_answer": "September 4, 1998",
+		"incorrect_answers": [
+			"October 9, 1997",
+			"December 12, 1989",
+			"Feburary 7th, 2000"
+		]
+	},
+	{
+		"category": "History",
+		"type": "boolean",
+		"difficulty": "medium",
+		"question": "Abraham Lincoln was the first U.S. President to be born outside the borders of the thirteen original states. ",
+		"correct_answer": "True",
+		"incorrect_answers": ["False"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "What was the first sport to have been played on the moon?",
+		"correct_answer": "Golf",
+		"incorrect_answers": ["Football", "Tennis", "Soccer"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which Nation DID NOT have a Colony in Modern-day America?",
+		"correct_answer": "Portugal",
+		"incorrect_answers": ["Spain", "Sweden", "Netherlands"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What is the mnemonic device for remembering the fates of the wives of Henry VIII?",
+		"correct_answer": "Divorced, Beheaded, Died, Divorced, Beheaded, Survived",
+		"incorrect_answers": [
+			"Beheaded, Died, Divorced, Divorced, Beheaded, Survived",
+			"Died, Beheaded, Divorced, Beheaded, Survived, Divorced",
+			"Survived, Beheaded, Died, Divorced, Divorced, Beheaded"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+		"correct_answer": "The Mayans",
+		"incorrect_answers": ["The Incas", "The Aztecs", "The Navajos"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "The Battle of Hastings was fought in which year?",
+		"correct_answer": "1066",
+		"incorrect_answers": ["911", "1204", "1420"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What was the bloodiest single-day battle during the American Civil War?",
+		"correct_answer": "The Battle of Antietam",
+		"incorrect_answers": [
+			"The Siege of Vicksburg",
+			"The Battle of Gettysburg",
+			"The Battles of Chancellorsville"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "When did the United States formally declare war on Japan, entering World War II?",
+		"correct_answer": "December 8, 1941",
+		"incorrect_answers": ["June 6, 1944", "June 22, 1941", "September 1, 1939"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "How long did World War II last?",
+		"correct_answer": "6 years",
+		"incorrect_answers": ["4 years", "5 years", "7 years"]
+	},
+	{
+		"category": "History",
+		"type": "boolean",
+		"difficulty": "easy",
+		"question": "Adolf Hitler was tried at the Nuremberg trials.",
+		"correct_answer": "False",
+		"incorrect_answers": ["True"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "How many women joined the United States Armed Services during World War II?",
+		"correct_answer": "350,000",
+		"incorrect_answers": ["225,000", "100,000", "500,000"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "To what political party did Abraham Lincoln belong when elected POTUS?",
+		"correct_answer": "Republican",
+		"incorrect_answers": ["Democrat", "Independent", "Whig"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "What was the aim of the &quot;Umbrella Revolution&quot; in Hong Kong in 2014?",
+		"correct_answer": "Genuine universal suffrage",
+		"incorrect_answers": [
+			"Gaining Independence",
+			"Go back under British Rule",
+			"Lower taxes"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "In what year did the Berlin Wall fall?",
+		"correct_answer": "1989",
+		"incorrect_answers": ["1987", "1991", "1993"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "Which of the following was not one of Joseph Stalin&#039;s ten blows during World War II?",
+		"correct_answer": "Vistula-Oder Offensive",
+		"incorrect_answers": [
+			"Crimean Offensive",
+			"Leningrad-Novgorod Offensive",
+			"Operation Bagration"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "The minigun was designed in 1960 by which manufacturer.",
+		"correct_answer": "General Electric",
+		"incorrect_answers": ["Colt Firearms", "Heckler &amp; Koch", "Sig Sauer"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which country gifted the Statue of Liberty to the United States of America?",
+		"correct_answer": "France",
+		"incorrect_answers": ["Spain", "England", "Germany"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+		"correct_answer": "Californian",
+		"incorrect_answers": ["Carpathia", "Cristol", "Commerce"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "Which modern country is known as &quot;The Graveyard of Empires&quot;?",
+		"correct_answer": "Afghanistan",
+		"incorrect_answers": ["China", "Iraq", "Russia"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "In addition to his career as an astrologer and &quot;prophet&quot;, Nostradamus published a 1555 treatise that included a section on what?",
+		"correct_answer": "Making jams and jellies",
+		"incorrect_answers": [
+			"Teaching parrots to talk",
+			"Cheating at card games",
+			"Digging graves"
+		]
+	},
+	{
+		"category": "History",
+		"type": "boolean",
+		"difficulty": "easy",
+		"question": "Thomas Crapper was a plumber who invented the flushing toilet.",
+		"correct_answer": "False",
+		"incorrect_answers": ["True"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "From 1940 to 1942, what was the capital-in-exile of Free France ?",
+		"correct_answer": "Brazzaville",
+		"incorrect_answers": ["Algiers", "Paris", "Tunis"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "The ancient city of Chich&eacute;n Itz&aacute; was built by which civilization?",
+		"correct_answer": "Mayans",
+		"incorrect_answers": ["Aztecs", "Incas", "Toltecs"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which of these 1900s tanks were designed and built BEFORE the others?",
+		"correct_answer": "Renault FT",
+		"incorrect_answers": ["M4 Sherman", " Panzer IV", "Cromwell "]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "Which countries participated in the Lobster War?",
+		"correct_answer": "France and Brazil",
+		"incorrect_answers": [
+			"Canada and Norway",
+			"Australia and New Zealand",
+			"United States and England"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which of the following is not in the Indo-European language family?",
+		"correct_answer": "Finnish",
+		"incorrect_answers": ["English", "Hindi", "Russian"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Who was the first Chancellor of a united Germany in 1871? ",
+		"correct_answer": "Otto Von Bismark",
+		"incorrect_answers": ["Kaiser Wilhelm ", "Fredrick the 2nd", "Robert Koch"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "When did the Crisis of the Third Century begin?",
+		"correct_answer": "235 AD",
+		"incorrect_answers": ["235 BC", "242 AD", "210 AD"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "During World War I, which nation&#039;s monarchs were blood related?",
+		"correct_answer": "England, Germany, Russia",
+		"incorrect_answers": [
+			"France, Russia, Germany",
+			"Serbia, Russia, Croatia",
+			"Germany, Spain, Austria"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which Louis was known as &#039;The Sun King of France&#039;?",
+		"correct_answer": "Louis XIV",
+		"incorrect_answers": ["Louis XIII", "Louis XV", "Louis XVI"]
+	}
+]
