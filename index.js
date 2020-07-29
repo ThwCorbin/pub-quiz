@@ -9,4 +9,10 @@ app.get("/", (req, resp) => {
 	});
 });
 
+app.get("/house", (req, resp) => {
+	Category.find({}).then((categories) => {
+		resp.json(categories);
+	});
+});
+
 app.listen(3000, () => console.log("Listening on port 3000"));
