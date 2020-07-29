@@ -18,8 +18,30 @@ app.get("/history", (req, resp) => {
 	});
 });
 
+// {
+// 	"incorrect_answers": [
+// 			"blue",
+// 			"red",
+// 			"green"
+// 	],
+// 	"category": "History",
+// 	"type": "multiple",
+// 	"difficulty": "hard",
+// 	"question": "What is my favourite colour?",
+// 	"correct_answer": "pink"
+// }
 app.post("/history", (req, resp) => {
 	Category.create(req.body).then((category) => {
+		resp.json(category);
+	});
+});
+
+// "_id": "5f21f0650619bc73ac0f57e3",
+// "question": "Which Louis was known as &#039;The Sun King of France&#039;?"
+app.put("/history/:id", (req, resp) => {
+	Category.findByIdAndUpdate({ _id: req.params.id }, req.body, {
+		new: true,
+	}).then((category) => {
 		resp.json(category);
 	});
 });
