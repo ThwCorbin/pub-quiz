@@ -8,3 +8,5 @@ const categorySchema = new Schema({
 	correct_answer: { type: String, trim: true },
 	incorrect_answer: [{ type: String, trim: true }],
 });
+
+module.exports = mongoose.model("Category", categorySchema);
