@@ -4,14 +4,23 @@ const Category = require("./models/Category");
 app.use(bodyParser.json());
 
 app.get("/", (req, resp) => {
-	Category.find({}).then((categories) => {
-		resp.json(categories);
-	});
+	let message = `
+	####################################
+	#     Welcome to the Pub Quiz!     #
+	####################################
+	`;
+	resp.json(message);
 });
 
 app.get("/history", (req, resp) => {
 	Category.find({}).then((categories) => {
 		resp.json(categories);
+	});
+});
+
+app.post("/history", (req, resp) => {
+	Category.create(req.body).then((category) => {
+		resp.json(category);
 	});
 });
 
