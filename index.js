@@ -46,7 +46,7 @@ app.put("/history/:id", (req, resp) => {
 	});
 });
 
-// delete the colour question added above: the _id will be different everytime
+// delete
 app.delete("/history/:id", (req, resp) => {
 	Category.findByIdAndRemove({ _id: req.params.id }).then((category) => {
 		resp.json(category);
