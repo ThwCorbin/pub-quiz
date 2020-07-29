@@ -10,25 +10,27 @@ Build a JSON API of trivia questions for a [pub quiz](https://chambers.co.uk/sea
 
 - Use Mongo, Mongooose, and Express to build a JSON API
 - GET seed data from another API (OpenTriviaDB)
-- Use two categories of questions (50 questions per category)
+- Use one category of questions (50 questions per category)
 - Use one Mongoose model
 - Deploy Pub Quiz API to Heroku
 - Document project well in a README
 
 ### Silver: looks and works better
 
-- Use five categories of questions from OpenTriviaDB to seed the database
+- Use two categories of questions (50 questions per category)
 - Consider need for more models
 
 ### Gold: bells and whistles
 
-- Use ten or more categories of questions from OpenTriviaDB to seed the database
+- Return questions based on difficulty level
+- Use five or more categories of questions from OpenTriviaDB to seed the database
 - Consider need for more models
 
 ## Data
 
 - Mongo database seeded with trivia questions from OpenTriviaDB
-- Start with two categories (History and Mythology) and add more if possible
+- Start with one category History
+- Silver: two categories (History and Mythology) and add more if possible
 - Create one Mongoose model for the seed data
 - OpenTriviaDB API returns up to 50 results per category as JSON in this format:
 
