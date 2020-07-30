@@ -8,8 +8,6 @@ if (process.env.NODE_ENV === "production") {
 	mongoURI = "mongodb://localhost/categories";
 }
 
-// mongoose.connect("mongodb://localhost/categories", { useNewUrlParser: true });
-
 mongoose
 	.connect(mongoURI, { useNewUrlParser: true })
 	.then((instance) =>
