@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+mongoose.Promise = Promise;
 let mongoURI = "";
 
 if (process.env.NODE_ENV === "production") {
@@ -8,8 +9,6 @@ if (process.env.NODE_ENV === "production") {
 }
 
 // mongoose.connect("mongodb://localhost/categories", { useNewUrlParser: true });
-
-mongoose.Promise = Promise;
 
 mongoose
 	.connect(mongoURI, { useNewUrlParser: true })
