@@ -1,9 +1,12 @@
-const app = require("express")();
+const express = require("express");
+const app = express();
 const bodyParser = require("body-parser");
 const Category = require("./models/Category");
 const { get } = require("mongoose");
 app.use(bodyParser.json());
+app.use("/doc", express.static("doc"));
 
+// * {get} / Respond with welcome message
 app.get("/", (req, resp) => {
 	let message = `
 	####################################
@@ -13,12 +16,14 @@ app.get("/", (req, resp) => {
 	resp.json(message);
 });
 
+// * {get} /history Respond with History questions
 app.get("/history", (req, resp) => {
 	Category.find({}).then((categories) => {
 		resp.json(categories);
 	});
 });
 
+// * {post} /history Respond with body question
 // {
 // 	"incorrect_answers": [
 // 			"blue",
@@ -37,6 +42,7 @@ app.post("/history", (req, resp) => {
 	});
 });
 
+// * {put} /history/:id Respond with body question updated
 // "_id": "5f21f0650619bc73ac0f57e3",
 // "question": "Which Louis was known as &#039;The Sun King of France&#039;?"
 app.put("/history/:id", (req, resp) => {
@@ -47,7 +53,7 @@ app.put("/history/:id", (req, resp) => {
 	});
 });
 
-// delete
+// * {del} /history/:id Respond with body question deleted
 app.delete("/history/:id", (req, resp) => {
 	Category.findByIdAndRemove({ _id: req.params.id }).then((category) => {
 		resp.json(category);
