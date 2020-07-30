@@ -1,22 +1,23 @@
 {
-  "name": "pub-quiz",
-  "version": "1.0.0",
-  "description": "A pub quiz game",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "pub",
-    "quiz",
-    "trivia"
-  ],
-  "author": "Tom Corbin",
-  "license": "MIT",
-  "dependencies": {
-    "axios": "^0.19.2",
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "mongoose": "^5.9.26"
-  }
+	"name": "pub-quiz",
+	"version": "1.0.0",
+	"description": "A pub quiz game",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"pub",
+		"quiz",
+		"trivia"
+	],
+	"author": "Tom Corbin",
+	"license": "MIT",
+	"dependencies": {
+		"apidoc": "^0.24.0",
+		"axios": "^0.19.2",
+		"body-parser": "^1.19.0",
+		"express": "^4.17.1",
+		"mongoose": "^5.9.26"
+	}
 }

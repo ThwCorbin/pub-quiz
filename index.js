@@ -1,6 +1,7 @@
 const app = require("express")();
 const bodyParser = require("body-parser");
 const Category = require("./models/Category");
+const { get } = require("mongoose");
 app.use(bodyParser.json());
 
 app.get("/", (req, resp) => {
