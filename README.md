@@ -31,9 +31,9 @@ Go to http://pub-quiz-game.herokuapp.com/history, which will GET 50 questions in
 
 Follow the installation instructions below, `cd` to the pub-quiz directory, and run the following commands in the terminal:
 
-- node db/seed.js
-- nodemon index.js
-- note: or node index.js if you do not have nodemon installed
+- `node db/seed.js`
+- `nodemon index.js`
+- note: or `node index.js` if you do not have nodemon installed
 
 Then paste http://localhost:3000/history into your favorite browser. Enjoy the JSON data.
 
@@ -42,7 +42,7 @@ Note: for better viewing pleasure, add an extension to your browser that formats
 ## Installation
 
 - Clone the repo: https://github.com/ThwCorbin/pub-quiz
-- cd to the pub-quiz directory
+- `cd` to the pub-quiz directory
 - run `npm i` in the terminal
 - note: you will also need to install mongodb globally
 
