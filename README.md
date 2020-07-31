@@ -19,21 +19,21 @@ This game is my sixth project for [General Assembly's](https://generalassemb.ly/
 
 ## Features
 
-I developed a bronze/silver/gold plan, which is available in the planning directory in this repo. I completed all bronze level features. I plan to add more categories of questions (e.g. Mythology, General Knowledge, etc.). I will develop a front end for my next project to work with this back end.
+I developed a bronze/silver/gold plan, which is available in the planning directory in this repo. I completed all bronze level features. I planned to add more categories of questions (e.g. Mythology, General Knowledge, etc.) in the silver and gold plans, but I've decided that for the purposes of this project (CRUD operations) one category will suffice. I will develop a front end for my next project to work with this back end.
 
 ## Installation
 
 - Clone the repo: https://github.com/ThwCorbin/pub-quiz
+- cd to the pub-quiz directory
+- run `npm i` in the terminal
+- note: you will also need to install mongodb globally
 
 ## Usage
 
-- cd to the pub-quiz directory
-- open index.html in your browser(1)
+CD to the pub-quiz directory, and in the terminal run:
+
+-
 
 ## License
 
 [MIT](LICENSE.txt "MIT License text file")
-
-## Notes
-
-Note 1: I use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer "Live Server extension") to serve my program from my code editor, [VS Code](https://code.visualstudio.com/ "Visual Studio Code editor").
