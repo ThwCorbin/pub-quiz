@@ -1,5 +1,7 @@
+const cors = require("cors");
 const express = require("express");
 const app = express();
+app.use(cors());
 const bodyParser = require("body-parser");
 const Category = require("./models/Category");
 app.use(bodyParser.json());
