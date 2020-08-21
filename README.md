@@ -18,6 +18,7 @@ This API is my sixth project for [General Assembly's](https://generalassemb.ly/ 
 - Node.js
 - JavaScript
 - HTML
+- apiDoc
 
 ## Features
 
