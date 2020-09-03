@@ -18,8 +18,7 @@ This API is my sixth project for [General Assembly's](https://generalassemb.ly/ 
 - Mongoose
 - Express
 - Node.js
-- JavaScript
-- HTML
+- apiDoc
 
 ## Features
 
