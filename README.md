@@ -8,6 +8,8 @@ Repo: https://github.com/ThwCorbin/pub-quiz
 
 API documentation: http://pub-quiz-game.herokuapp.com/doc
 
+![Pub Quiz API screenshot](./pub-quiz-api.png "Pub Quiz API")
+
 This API is my sixth project for [General Assembly's](https://generalassemb.ly/ "General Assembly homepage") Software Engineering Immersive program.
 
 ## Technologies
